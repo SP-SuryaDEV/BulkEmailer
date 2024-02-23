@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from mail import SendEmail
+from Mail import SendEmail
 
 st.title('Bulk Emailer')
 
